@@ -1,6 +1,6 @@
 # :zap: Jekyll을 이용한 Github 블로그 생성
 
-## :octocat: Github Respository 생성
+## 🎊 Github Respository 생성
 - Github의 Respository에서 New를 선택해 새로운 Respository를 만듭니다.<br><br>
 
 ![img](https://user-images.githubusercontent.com/95972251/193173480-ef7b3b2d-13eb-49b9-8786-61132183c45a.png)
@@ -8,18 +8,18 @@
 - 생성시 owner이름.github.io로 작성합니다.
 
 ## 🚅 Jekyll 설치하기(윈도우)
- :one: Jekyll를 설치해 정적 사이트를 만들려고 할 때, 윈도우의 경우 jekyll를 설치하려면 bash나 ruby를 설치해야 합니다.<br>
+ 1. Jekyll를 설치해 정적 사이트를 만들려고 할 때, 윈도우의 경우 jekyll를 설치하려면 bash나 ruby를 설치해야 합니다.<br>
   ruby 설치 방법은 <a href="https://seong6496.tistory.com/256">링크 참조</a><br>
 
- :two: ruby가 잘 설치되어 있는 상태면 jekyll를 설치할 수 있습니다. cmd 창에서 다음을 코드를 입력합니다.<br>
+ 2. ruby가 잘 설치되어 있는 상태면 jekyll를 설치할 수 있습니다. cmd 창에서 다음을 코드를 입력합니다.<br>
  
-```bash
-gem install jekyll bundler
-```
+     ```bash
+     gem install jekyll bundler
+     ```
 
 ![img (1)](https://user-images.githubusercontent.com/95972251/193173997-e07bd189-7ca3-4f08-8754-05dbc1147a49.png)
 
-:three: 잘 설치가 되었는지 확인려면 jekyll -v를 쳐봅니다. 버전이 나온다면 설치가 잘 된 것입니다.
+ 3. 잘 설치가 되었는지 확인려면 jekyll -v를 쳐봅니다. 버전이 나온다면 설치가 잘 된 것입니다.
 
 ![img (4)](https://user-images.githubusercontent.com/95972251/193176395-f5aa484a-74b6-4f48-bfd8-3ea1864cda1c.png)
 
